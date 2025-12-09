@@ -4,7 +4,7 @@ A local Retrieval-Augmented Generation (RAG) application that allows you to chat
 
 ## 🏗️ Architecture
 
-![Llama 3.2 RAG Architecture](assets/rag-app.png.png)
+![Llama 3.2 RAG Architecture](rag-app.png)
 
 The application follows a standard RAG pipeline:
 1.  **Ingest:** Documents are loaded and split into chunks.
